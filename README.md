@@ -9,9 +9,8 @@ Sound is unreliable and may work if enabled, but also may not. The Java Virtual 
 
 
 ## Next steps: 
-* Uploading exported zips of the game
 * Further code cleanup
-* Porting to Unity
+* Porting to Unity (Seperate Branch)
 
 ## Exported Versions
 1. Download the proper zip file
