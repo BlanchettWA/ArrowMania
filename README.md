@@ -13,4 +13,9 @@ Sound is unreliable and may work if enabled, but also may not. The Java Virtual 
 * Further code cleanup
 * Porting to Unity
 
+## Exported Versions
+1. Download the proper zip file
+2. Extract the zip file to a location on your computer
+3. Run ArrowMania.exe
+
 *I'd be honored if you want to use/adapt/modify this, just let me know what you do with it!*
