@@ -1,11 +1,11 @@
 # Arrow Mania
 A Game Programming final created in Processing. Essentially, DDR on keyboard but without music syncronization.
 
-Currently, this requres [Processing](https://processing.org/) to run. There will be exported executable versions soon. 
+Currently, this requres [Processing](https://processing.org/) to see the source code. There are exported zips with executables. 
 
 
 ## Known issues: 
-Sound is unreliable and may work if enabled, but also may not. The Java Virtual machine crashes either on first run or on opening the game. 
+Sound is unreliable and may work if enabled, but also may not. The Java Virtual machine crashes either on first run or on opening the game....or it doesn't crash at all. Its very unpredictable. 
 
 
 ## Next steps: 
